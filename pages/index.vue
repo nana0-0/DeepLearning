@@ -6,13 +6,13 @@
                 Neural Style Transfer
             </h1>
             <h2 class="subtitle">
-                Gatys et al
+                課題研究
             </h2>
             <div class="links">
                 <nuxt-link to="/perceptron" class="button--green">
                     Deep Learning
                 </nuxt-link>
-                <a href="https://github.com/nuxt/nuxt.js" class="button--grey">
+                <a href="#" class="button--grey">
                     Neural Style Transfer
                 </a>
             </div>
